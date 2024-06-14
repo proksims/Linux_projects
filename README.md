@@ -1,23 +1,19 @@
-# D01_Linux
+### D01_Linux
 
-### Операционные системы UNIX/Linux (Базовый).
-
+Операционные системы UNIX/Linux (Базовый).
 Установка и обновления системы Linux. Основы администрирования.
 
-# DO2_LinuxNetwork
+### DO2_LinuxNetwork
 
-### Сети в Linux
-
+Сети в Linux
 Настройка сетей в Linux на виртуальных машинах.
 
-# DO3_LinuxMonitoring
+### DO3_LinuxMonitoring
 
-### Linux Monitoring v1.0
-
+Linux Monitoring v1.0
 Linux базовые bash скрипты and system research.
 
-# DO4_SimpleDocker
+### DO4_SimpleDocker
 
-### Simple Docker
-
+Simple Docker
 Введение в докер. Разработка простого докер образа для собственного сервера.
